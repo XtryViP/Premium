@@ -19,4 +19,4 @@ $ git clone https://github.com/XtryViP/Premium
 
 $ cd Premium
 
-& Premium.py
+& Python Premium.py
